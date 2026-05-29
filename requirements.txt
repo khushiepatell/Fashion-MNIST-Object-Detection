@@ -1,0 +1,9 @@
+ultralytics==8.3.201
+torch>=2.0.0
+torchvision
+tensorflow
+opencv-python-headless
+pandas
+matplotlib
+scikit-learn
+Pillow
